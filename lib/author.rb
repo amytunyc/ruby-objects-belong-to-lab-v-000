@@ -1,1 +1,4 @@
-class Authpr
+class Author
+  attr_accessor
+end
+  
